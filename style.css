@@ -158,6 +158,9 @@ nav{
 .navbar-nav, .nav-item{
    padding-left: 0px !important; 
 }
+.row{
+    margin-top: 10vh !important;
+}
 }
 .button-icon{
     background-color: var(--green-color)
